@@ -1,4 +1,9 @@
 # Welcome to CS100 - first repository
-last update: 2/09/2025
+**last update**: 2/09/2025
+## About this repository
+this repo is about creating a repository. The primary goal is to practice fundamental Git and version control concepts, including:
 
-this repo is about creating a repository. Also including remote repo practicing
+* Initializing a local repository.
+* Connecting a local repository to a remote one (like on GitHub).
+* Committing changes.
+* Pushing updates to the remote repository.
